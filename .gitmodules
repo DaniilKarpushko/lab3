@@ -1,3 +1,6 @@
 [submodule "dddd"]
 	path = dddd
 	url = https://github.com/DaniilKarpushko/dddd.git
+[submodule "LABWORKSSUV"]
+	path = LABWORKSSUV
+	url = https://github.com/COSMOGLIST/LABWORKSSUV.git
