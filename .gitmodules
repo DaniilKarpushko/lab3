@@ -1,0 +1,3 @@
+[submodule "dddd"]
+	path = dddd
+	url = https://github.com/DaniilKarpushko/dddd.git
