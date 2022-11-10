@@ -1,3 +1,9 @@
 [submodule "dddd"]
 	path = dddd
 	url = https://github.com/DaniilKarpushko/dddd.git
+[submodule "LABWORKSSUV"]
+	path = LABWORKSSUV
+	url = https://github.com/COSMOGLIST/LABWORKSSUV.git
+[submodule "labwork2git"]
+	path = labwork2git
+	url = https://github.com/DaniilKarpushko/labwork2git.git
